@@ -1,0 +1,9 @@
+flutter_native_splash:
+  # flutter pub run flutter_native_splash:create
+  color: "#000619"
+  image: assets/images/tic-tac-toe.png
+  android_12:
+    image: assets/images/tic-tac-toe.png
+    color: "#000619"
+
+   
